@@ -8,3 +8,6 @@ Then make weight average prediction for better accuracy
 
 Infer
 Use the finetuned models and make prediction on real time web cam
+
+Here is the training and single image infer link
+https://www.kaggle.com/code/myominhtet/notebook167504d7e3/notebook
