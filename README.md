@@ -13,5 +13,5 @@ Here is the training and single image infer link
 https://www.kaggle.com/code/myominhtet/notebook167504d7e3/notebook
 
 Here is output
-![Alt Text]([url_to_your_gif_file](https://s3.ezgif.com/tmp/ezgif-3-a17879bbf6.gif))
+![Alt Text]((https://s3.ezgif.com/tmp/ezgif-3-a17879bbf6.gif))
 
